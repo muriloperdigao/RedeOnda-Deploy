@@ -1,0 +1,126 @@
+.roboto{
+    font-family: 'Roboto', sans-serif;
+}
+
+.spacer{
+    aspect-ratio: 960/300;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+}
+
+.button-1{
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;	
+    text-decoration: none;
+    outline: none;
+    color: black;
+    background-color: #FFEF61;
+    border: 2px solid #FFFBDC;
+    border-radius: 15px;
+    box-shadow: 0 9px #FFFBDC;
+}
+
+.button-1:hover {background-color: #ffea2f}
+
+.button-1:active {
+  background-color: #ffea2f;
+  box-shadow: 0 5px #FFFBDC;
+  transform: translateY(4px);
+}
+
+.custom-shape-divider-bottom-1646941051 {
+    position: relative;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1646941051 svg {
+    position: relative;
+    display: block;
+    width: calc(119% + 1.3px);
+    height: 78px;
+    transform: rotateY(180deg);
+}
+
+.custom-shape-divider-bottom-1646941051 .shape-fill {
+    fill: #FFFBDC;
+}
+
+.custom-shape-divider-bottom-1646941359 {
+    position: relative;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1646941359 svg {
+    position: relative;
+    display: block;
+    width: calc(119% + 1.3px);
+    height: 78px;
+    transform: rotateY(180deg);
+}
+
+.custom-shape-divider-bottom-1646941359 .shape-fill {
+    fill: #148D95;
+}
+
+.container-fluid{
+    padding: 0;
+}
+ .button-2{
+    height: 550px;
+    width: auto;
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;	
+    text-decoration: none;
+    outline: none;
+    color: black;
+    background-color: #FFFBDC;
+    border: 2px solid #ffea2f;
+    border-radius: 15px;
+    box-shadow: 0 9px #ffea2f;
+}
+
+.button-2-1{
+    display: inline-block;
+    padding: 15px 25px;
+    text-align: center;	
+    text-decoration: none;
+    outline: none;
+    color: black;
+    background-color: #FFFBDC;
+    border: 2px solid #ffea2f;
+    border-radius: 15px;
+    box-shadow: 0 9px #ffea2f;
+}
+
+.button-3{
+    width: 100%;
+    display: inline-block;
+    padding: 5px 5px;
+    font-size: 16px;
+    text-decoration: none;
+    outline: none;
+    color: black;
+    background-color: #FFFBDC;
+    border: 2px solid #148D95;
+    border-radius: 15px;
+    box-shadow: 0 5px #148D95;
+}
+
